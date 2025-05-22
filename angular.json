@@ -27,8 +27,7 @@
               }
             ],
             "styles": [
-              "src/styles.css",
-              "node_modules/@tarekraafat/autocomplete.js/dist/css/autoComplete.01.min.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
